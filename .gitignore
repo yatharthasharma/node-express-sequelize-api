@@ -1,1 +1,10 @@
+# Dependency directory
 node_modules/
+
+# Logs
+*.log
+
+# DB Config
+config/config.json
+
+.env
